@@ -1,0 +1,22 @@
+.containerSLA1{
+  margin: 60px 120px;
+  display: flex;
+  align-items: center;
+  padding-top: 0;
+}
+
+.leftSLA1 h2{
+  font-size: 30px;
+  padding-right: 150px;
+  
+}
+
+.leftSLA1 p{
+  font-size: 16px;
+  margin-top: 10px;
+  padding-right: 150px;
+}
+
+.rightSLA1 img{
+  width: 400px;
+}

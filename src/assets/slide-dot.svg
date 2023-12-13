@@ -1,0 +1,23 @@
+<svg width="62" height="6" viewBox="0 0 62 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="62" height="6" fill="#F5F5F5"/>
+<g id="Home" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4712" transform="translate(-713 -3512)" fill="white"/>
+<g id="Section-4">
+<rect id="Rectangle 14" x="-713" y="-487" width="1440" height="604" fill="#F7F7F7"/>
+</g>
+<g id="Group 1000004462">
+<g id="Curcle">
+<circle id="Ellipse 20" cx="3" cy="3" r="3" transform="matrix(1 0 0 -1 0 6)" fill="#D9D9D9"/>
+<circle id="Ellipse 21" cx="3" cy="3" r="3" transform="matrix(1 0 0 -1 14 6)" fill="#D9D9D9"/>
+<circle id="Ellipse 22" cx="3" cy="3" r="3" transform="matrix(1 0 0 -1 28 6)" fill="#00D78B"/>
+<circle id="Ellipse 23" cx="3" cy="3" r="3" transform="matrix(1 0 0 -1 42 6)" fill="#D9D9D9"/>
+<circle id="Ellipse 24" cx="3" cy="3" r="3" transform="matrix(1 0 0 -1 56 6)" fill="#D9D9D9"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4712" fill="white" transform="translate(-713 -3512)"/>
+</clipPath>
+</defs>
+</svg>

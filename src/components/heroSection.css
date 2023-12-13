@@ -1,0 +1,45 @@
+.heroSection{
+  background-color: #F6F6F6;
+}
+
+.container{
+  margin: 0 120px;
+  display: flex;
+}
+
+.left{
+  padding: 70px 0 70px 0;
+}
+
+.image-container{
+  width: 600px; 
+  height: 400px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.image-container img{
+  width: 500px;
+  height: 300px;
+}
+
+.right{
+  margin-top: 150px;
+  margin-left: 150px;
+}
+
+.right .btn-primary{
+  background-color: #00D78B;
+  padding: 10px 10px;
+  border: none;
+  color: white;
+  font-weight: 200;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  margin-top: 10px;
+}

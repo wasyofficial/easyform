@@ -1,0 +1,33 @@
+.containerSLA7{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.right-content-container h2{
+  font-size: 34px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.right-content-container h3{
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.percentage{
+  display: flex;
+  align-items: center;
+  
+}
+
+.r1{ 
+  margin-right: 20px;
+  font-size: 40px;
+}
+.r2{
+  width: 300px;
+}

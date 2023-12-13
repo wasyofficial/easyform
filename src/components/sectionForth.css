@@ -1,0 +1,76 @@
+.forthSection{
+  background-color: #F7F7F7;
+}
+
+.containeSLA4{
+  margin: 60px 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 0;
+}
+.leftSLA4{
+  width: 50%;
+}
+.leftSLA4 h2{
+  font-size: 32px;
+  padding-right: 100px;
+
+}
+.leftSLA4 a{
+  color: #00D78B;
+  font-size: 14px;
+}
+
+.buttonSLA4{
+  display: flex;
+  padding: 50px 0;
+}
+
+.leftbtn4{
+  width: 50px;
+  height: 50px;
+  border: 2px solid #00D78B;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.rightbtn4{
+  width: 50px;
+  height: 50px;
+  border: 2px solid #00D78B;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30px;
+}
+
+.rightSLA4{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.leftBoxSLA4, .rightBoxSLA4{
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15px;
+  border-radius: 10px;
+  border: 1px solid #D6D6D6;
+  
+}
+
+.rightBoxSLA4{
+  background-color: #76FFCF;
+} 
+
+
+
